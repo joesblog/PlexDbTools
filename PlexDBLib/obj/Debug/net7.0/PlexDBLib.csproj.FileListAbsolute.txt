@@ -1,0 +1,14 @@
+G:\_Development\_ONEOFF TOOLS\PlexDbTools\PlexDBLib\bin\Debug\net7.0\PlexDBLib.deps.json
+G:\_Development\_ONEOFF TOOLS\PlexDbTools\PlexDBLib\bin\Debug\net7.0\PlexDBLib.runtimeconfig.json
+G:\_Development\_ONEOFF TOOLS\PlexDbTools\PlexDBLib\bin\Debug\net7.0\PlexDBLib.dll
+G:\_Development\_ONEOFF TOOLS\PlexDbTools\PlexDBLib\bin\Debug\net7.0\PlexDBLib.pdb
+G:\_Development\_ONEOFF TOOLS\PlexDbTools\PlexDBLib\obj\Debug\net7.0\PlexDBLib.csproj.AssemblyReference.cache
+G:\_Development\_ONEOFF TOOLS\PlexDbTools\PlexDBLib\obj\Debug\net7.0\PlexDBLib.GeneratedMSBuildEditorConfig.editorconfig
+G:\_Development\_ONEOFF TOOLS\PlexDbTools\PlexDBLib\obj\Debug\net7.0\PlexDBLib.AssemblyInfoInputs.cache
+G:\_Development\_ONEOFF TOOLS\PlexDbTools\PlexDBLib\obj\Debug\net7.0\PlexDBLib.AssemblyInfo.cs
+G:\_Development\_ONEOFF TOOLS\PlexDbTools\PlexDBLib\obj\Debug\net7.0\PlexDBLib.csproj.CoreCompileInputs.cache
+G:\_Development\_ONEOFF TOOLS\PlexDbTools\PlexDBLib\obj\Debug\net7.0\PlexDBLib.dll
+G:\_Development\_ONEOFF TOOLS\PlexDbTools\PlexDBLib\obj\Debug\net7.0\refint\PlexDBLib.dll
+G:\_Development\_ONEOFF TOOLS\PlexDbTools\PlexDBLib\obj\Debug\net7.0\PlexDBLib.pdb
+G:\_Development\_ONEOFF TOOLS\PlexDbTools\PlexDBLib\obj\Debug\net7.0\PlexDBLib.genruntimeconfig.cache
+G:\_Development\_ONEOFF TOOLS\PlexDbTools\PlexDBLib\obj\Debug\net7.0\ref\PlexDBLib.dll

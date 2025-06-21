@@ -1,0 +1,15 @@
+using Dapper;
+using System.Collections.Generic;
+using System.Data.SQLite;
+using System.Text;
+using System.IO;
+using System.ComponentModel;
+
+#pragma warning disable CS8618
+#pragma warning disable CS8981
+namespace PlexDBLib.Models {
+	public class fts4_metadata_titles_icu {
+		//unsupported datatype found
+		}}
+		#pragma warning restore CS8618
+		#pragma warning restore CS8981
